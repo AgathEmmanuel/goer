@@ -17,13 +17,21 @@ func main() {
 	var numbersArray = [4]int{11, 22, 33, 44}
 	fmt.Println(numbersArray)
 	fmt.Println(len(numbersArray))
+	for i:=0;i<len(numbersArray);i++ {
+		fmt.Println(numbersArray[i])
+	}
 	fmt.Println("Array is an object, when passed to a function \n a copy will be made")
 
 	var namesSlice = []string{"names0", "names1", "names2"}
 	fmt.Println(namesSlice)
+	for i:=0;i<len(namesSlice);i++ {
+		fmt.Println(namesSlice[i])
+	}
+	fmt.Printf("%T \n",namesSlice)
 	namesSlice = append(namesSlice, "names3")
 	fmt.Println(namesSlice)
 	fmt.Println(len(namesSlice))
+	fmt.Printf("%T",namesSlice)
 
 	namesSlice = append(namesSlice[2 : len(namesSlice)+0])
 	fmt.Println(namesSlice)
