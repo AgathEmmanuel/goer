@@ -253,5 +253,26 @@ import (
 [https://softwareengineeringdaily.com/2021/03/03/why-we-switched-from-python-to-go/](https://softwareengineeringdaily.com/2021/03/03/why-we-switched-from-python-to-go/)  
 [https://getstream.io/blog/building-a-performant-api-using-go-and-cassandra/](https://getstream.io/blog/building-a-performant-api-using-go-and-cassandra/)  
 
-[https://www.blog.duomly.com/golang-course-with-building-a-fintech-banking-app-lesson-5-bank-transactions-part-2/](https://www.blog.duomly.com/golang-course-with-building-a-fintech-banking-app-lesson-5-bank-transactions-part-2/)  
+[https://www.blog.duomly.com/golang-course-with-building-a-fintech-banking-app-lesson-5-bank-transactions-part-2/](https://www.blog.duomly.com/golang-course-with-building-a-fintech-banking-app-lesson-5-bank-transactions-part-2/)[https://www.freecodecamp.org/news/learn-go-by-building-11-projects/](https://www.freecodecamp.org/news/learn-go-by-building-11-projects/)  
+[Learn Go Programming by Building 11 Projects – Full Course](https://youtu.be/jFfo23yIWac)  
+
+
+[https://stackoverflow.com/questions/46809499/why-cant-you-put-a-variable-as-a-multidimensional-array-size-in-go](https://stackoverflow.com/questions/46809499/why-cant-you-put-a-variable-as-a-multidimensional-array-size-in-go)  
+[https://linuxhint.com/golang-make-function/](https://linuxhint.com/golang-make-function/)  
+[https://www.godesignpatterns.com/2014/05/arrays-vs-slices.html](https://www.godesignpatterns.com/2014/05/arrays-vs-slices.html)  
+[https://go.dev/blog/slices-intro](https://go.dev/blog/slices-intro)  
+[https://stackoverflow.com/questions/45423667/what-is-the-point-in-setting-a-slices-capacity](https://stackoverflow.com/questions/45423667/what-is-the-point-in-setting-a-slices-capacity)  
+[https://stackoverflow.com/questions/36706843/how-to-get-the-underlying-array-of-a-slice-in-go](https://stackoverflow.com/questions/36706843/how-to-get-the-underlying-array-of-a-slice-in-go)  
+[https://www.developer.com/languages/understanding-structs-in-go/](https://www.developer.com/languages/understanding-structs-in-go/)  
+[https://technobeans.com/2019/01/27/golang-composite-data-types-arrays-and-slices/](https://technobeans.com/2019/01/27/golang-composite-data-types-arrays-and-slices/)  
+[https://go.dev/src/runtime/slice.go](https://go.dev/src/runtime/slice.go)  
+[https://go.dev/src/runtime/malloc.go](https://go.dev/src/runtime/malloc.go)  
+[https://golang.hotexamples.com/examples/malloc/-/Free/golang-free-function-examples.html](https://golang.hotexamples.com/examples/malloc/-/Free/golang-free-function-examples.html)  
+[https://medium.com/@ankur_anand/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed](https://medium.com/@ankur_anand/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)  
+[https://chris124567.github.io/2021-06-21-go-performance/](https://chris124567.github.io/2021-06-21-go-performance/)  
+[https://www.codestudyblog.com/cs2112goa/1213221611.html](https://www.codestudyblog.com/cs2112goa/1213221611.html)  
+[https://stackoverflow.com/questions/9320862/why-would-i-make-or-new](https://stackoverflow.com/questions/9320862/why-would-i-make-or-new)  
+[https://medium.com/codex/learn-how-golang-channels-work-by-building-them-72f49ed30f2c](https://medium.com/codex/learn-how-golang-channels-work-by-building-them-72f49ed30f2c)  
+[https://softwareengineering.stackexchange.com/questions/341152/type-safety-go-vs-c-pointers](https://softwareengineering.stackexchange.com/questions/341152/type-safety-go-vs-c-pointers)  
+[https://www.pullrequest.com/blog/golang-vs-c-arrays/](https://www.pullrequest.com/blog/golang-vs-c-arrays/)  
 
