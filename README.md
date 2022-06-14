@@ -2,6 +2,26 @@
 
 
 
+
+```
+ To install additional Go versions, run the go install command, specifying the download location of the version you want to install. The following example illustrates with version 1.10.7:
+
+$ go install golang.org/dl/go1.10.7@latest
+$ go1.10.7 download
+
+To run go commands with the newly-downloaded version, append the version number to the go command, as follows:
+
+$ go1.10.7 version
+go version go1.10.7 linux/amd64
+
+When you have multiple versions installed, you can discover where each is installed, look at the version's GOROOT value. For example, run a command such as the following:
+
+$ go1.10.7 env GOROOT
+
+To uninstall a downloaded version, just remove the directory specified by its GOROOT environment variable and the goX.Y.Z binary. 
+
+```
+
 ## Use cases  
 
 Concurrency  
@@ -275,4 +295,15 @@ import (
 [https://medium.com/codex/learn-how-golang-channels-work-by-building-them-72f49ed30f2c](https://medium.com/codex/learn-how-golang-channels-work-by-building-them-72f49ed30f2c)  
 [https://softwareengineering.stackexchange.com/questions/341152/type-safety-go-vs-c-pointers](https://softwareengineering.stackexchange.com/questions/341152/type-safety-go-vs-c-pointers)  
 [https://www.pullrequest.com/blog/golang-vs-c-arrays/](https://www.pullrequest.com/blog/golang-vs-c-arrays/)  
+[https://stackoverflow.com/questions/1713214/how-to-use-c-in-go](https://stackoverflow.com/questions/1713214/how-to-use-c-in-go)  
+[https://golangexample.com/go-implementation-of-c-stl-iterators-and-algorithms/](https://golangexample.com/go-implementation-of-c-stl-iterators-and-algorithms/)  
+[https://go.dev/blog/when-generics](https://go.dev/blog/when-generics)  
+[https://blog.khanacademy.org/statically-typed-context-in-go/](https://blog.khanacademy.org/statically-typed-context-in-go/)  
 
+
+
+[https://go.dev/doc/manage-install](https://go.dev/doc/manage-install)  
+
+[https://tutorialedge.net/golang/makefiles-for-go-developers/](https://tutorialedge.net/golang/makefiles-for-go-developers/)  
+[https://earthly.dev/blog/golang-makefile/](https://earthly.dev/blog/golang-makefile/)  
+[https://sohlich.github.io/post/go_makefile/](https://sohlich.github.io/post/go_makefile/)  
